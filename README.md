@@ -1,7 +1,7 @@
 # MyPythonHackerRankProblemSolving
 
 # Problem 1:
-URL: 
+URL: https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
 
 ## Solution:
 ```python
