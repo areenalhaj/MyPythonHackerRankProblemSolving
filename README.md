@@ -51,3 +51,66 @@ URL:
 ## Solution:
 ```python
 ```
+
+---
+# Problem 3
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 4
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 5
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 
+URL: 
+## Solution:
+```python
+```
+
+---
+# Problem 
+URL: 
+## Solution:
+```python
+```
